@@ -1,0 +1,8 @@
+{
+  "name": "Telegram Relationship Verification Mini App",
+  "description": "Privacy-first, identity-verified Telegram Mini App for relationship verification with phone ownership check, face liveness, and anti-enumeration safeguards.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
